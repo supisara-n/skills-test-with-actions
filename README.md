@@ -1,7 +1,7 @@
 <header>
 
 <!--
-  <<< Author notes: Course header >>>
+  Author notes: Course header
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
@@ -14,7 +14,7 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
 </header>
 
 <!--
-  <<< Author notes: Step 2 >>>
+  Author notes: Step 2
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
@@ -29,7 +29,7 @@ When a GitHub Actions workflow is running, you should see some checks in progres
 
 <img alt="checks in progress in a merge box" src=https://user-images.githubusercontent.com/16547949/66080348-ecc5f580-e533-11e9-909e-c213b08790eb.png width=400 />
 
-You can follow along as GitHub Actions runs your job by going to the **Actions** tab or by clicking "Details" in the merge box below.
+You can follow along as GitHub Actions runs your job by going to the __Actions__ tab or by clicking "Details" in the merge box below.
 
 When the tests finish, you'll see a red X :x: or a green check mark :heavy_check_mark: in the merge box. At that point, you can access the logs for the build job and its associated steps.
 
@@ -46,13 +46,13 @@ If the checks don't appear or if the checks are stuck in progress, there's a few
 ### :keyboard: Activity: Fix the test
 
 1. Update the contents in the `ci` branch to get the test to pass. You need to look at the logs to see what caused the test to fail.
-1. **Commit changes**.
+1. __Commit changes__.
 1. Wait about 20 seconds and then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/actions) will automatically update to the next step.
 
 <footer>
 
 <!--
-  <<< Author notes: Footer >>>
+  Author notes: Footer
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
